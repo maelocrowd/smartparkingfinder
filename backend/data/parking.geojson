@@ -1,0 +1,118 @@
+{
+    "type": "FeatureCollection",
+    "name": "parking",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [{
+            "type": "Feature",
+            "properties": {
+                "id": 1,
+                "name": "Bole near Skylight",
+                "address": "Bole near Skylight, Addis Ababa",
+                "slots": 100,
+                "operating_hours": "24 hours"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [38.788346725618361, 8.987999229333822]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "id": 2,
+                "name": "Bole Japan",
+                "address": "Bole Japan, Addis Ababa",
+                "slots": 60,
+                "operating_hours": "24 hours"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [38.782073262986955, 8.991362855206305]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "id": 3,
+                "name": "Meskel Basement",
+                "address": "Meskel Basement, Addis Ababa",
+                "slots": 400,
+                "operating_hours": "24 hours"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [38.761341072806758, 9.010504945747684]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "id": 4,
+                "name": "Near Salitemihret",
+                "address": "GurdShola, Addis Ababa",
+                "slots": 60,
+                "operating_hours": "10 hours"
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [38.830796619298447, 9.021137353801054]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "id": 5,
+                "name": "CMC",
+				"address": "CMC, Addis Ababa",
+                "slots": 50,
+                "operating_hours": "8 hours"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [38.844403333547369, 9.02219351791884]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "id": 6,
+                "name": "Bambis",
+				"address": "Kirkos, Addis Ababa",
+                "slots": 30,
+                "operating_hours": "24 hours"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [38.77007089124298, 9.011367357294677]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "id": 7,
+                "name": "Megenagna Area",
+				"address": "Megenagan, Addis Ababa",
+                "slots": 60,
+                "operating_hours": "12 hours"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [38.798646116686989, 9.019277217206625]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "id": 8,
+                "name": "Commerce Area",
+				"address": "Legehar_Mexico Area, Addis Ababa",
+                "slots": 60,
+                "operating_hours": "10 hours"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [38.749054246661949, 9.011552188630825]
+            }
+        }
+
+    ]
+}
