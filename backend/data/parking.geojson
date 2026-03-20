@@ -65,7 +65,7 @@
             "properties": {
                 "id": 5,
                 "name": "CMC",
-				"address": "CMC, Addis Ababa",
+                "address": "CMC, Addis Ababa",
                 "slots": 50,
                 "operating_hours": "8 hours"
             },
@@ -78,7 +78,7 @@
             "properties": {
                 "id": 6,
                 "name": "Bambis",
-				"address": "Kirkos, Addis Ababa",
+                "address": "Kirkos, Addis Ababa",
                 "slots": 30,
                 "operating_hours": "24 hours"
             },
@@ -91,7 +91,7 @@
             "properties": {
                 "id": 7,
                 "name": "Megenagna Area",
-				"address": "Megenagan, Addis Ababa",
+                "address": "Megenagan, Addis Ababa",
                 "slots": 60,
                 "operating_hours": "12 hours"
             },
@@ -104,13 +104,52 @@
             "properties": {
                 "id": 8,
                 "name": "Commerce Area",
-				"address": "Legehar_Mexico Area, Addis Ababa",
+                "address": "Legehar_Mexico Area, Addis Ababa",
                 "slots": 60,
                 "operating_hours": "10 hours"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [38.749054246661949, 9.011552188630825]
+            }
+        },  {
+            "type": "Feature",
+            "properties": {
+                "id": 9,
+                "name": "Near Urael Church",
+				"address": "Urael, Addis Ababa",
+                "slots": 30,
+                "operating_hours": "12 hours"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [38.775372399550314, 9.011910494024047]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "id": 10,
+                "name": "Leghare",
+				"address": "Leghare, Addis Ababa",
+                "slots": 20,
+                "operating_hours": "12 hours"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [38.753530983749343, 9.012199336568585]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "id": 11,
+                "name": "Near Wegagen HQ",
+				"address": "Leghare near Wegagen HQ, Addis Ababa",
+                "slots": 30,
+                "operating_hours": "12 hours"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [38.755549362995538, 9.011737432173918]
             }
         }
 
